@@ -1,9 +1,7 @@
-
 {
   "name": "myproject1",
   "private": true,
-  "homepage": "https://gkhushboo22.github.io/bgChanger",
-
+  "homepage": " https://gkhushboo22.github.io/Password-Generator/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -13,7 +11,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
